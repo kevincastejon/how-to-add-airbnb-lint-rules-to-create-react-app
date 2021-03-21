@@ -35,10 +35,6 @@ module.exports = {
     'react',
   ],
   rules: {
-    'no-bitwise': 'off',
-    'no-loop-func': 'off',
-    'react/jsx-filename-extension': 'off',
-    'no-await-in-loop': 'off',
   },
 };
 
